@@ -1,6 +1,3 @@
-/* tindog website code refactor css */
-/* DRY - Do not repeat */
-/* WET - We enjoy typing */
 body {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
@@ -31,7 +28,6 @@ p{
 }
 
 /* Section */
-
 .colored-section{
   background-color: #ff4c68;
 color: #fff;
@@ -144,7 +140,6 @@ text-align: left;
 }
 
 /* Footer */
-
 #footer i {
   padding: 10px;
 }
